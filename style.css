@@ -1,0 +1,25 @@
+/* https://teachablemachine.withgoogle.com/models/6DhDkNjLP/ , teachable machine link, original*/
+
+body
+{
+ color : white;
+ background-color: rgba(28, 69, 145, 0.932);
+}
+
+#heading
+{
+    width : 80%;
+    font-size: 32px;
+}
+
+#camera
+{
+    border : 2px - solid black;
+    width : 350px;
+    height: 300px;
+}
+
+#obj_result , #obj_accuracy
+{
+    color :rgb(184, 216, 0);
+}
